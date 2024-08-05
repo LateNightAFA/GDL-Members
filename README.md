@@ -1,6 +1,6 @@
 ## GDL Member List: Meet the Goyim Defense League and Associates
 
-### Data for Goyim Defense League Members and Associates is available [here](https://github.com/LateNightAFA/GDL-members/blob/main/GDL%20Members%20and%20Associates%20-%20June%202024.csv).
+### [Data for Goyim Defense League Members and Associates is available here](https://github.com/LateNightAFA/GDL-members/blob/main/GDL%20Members%20and%20Associates%20-%20June%202024.csv).
 
 All data was sourced from public news articles and resources.
 
