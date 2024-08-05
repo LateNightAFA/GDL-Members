@@ -8,4 +8,9 @@ Read the original write-up on the **[LateNightAFA blog](https://latenightafa.nob
 
 Full-size "Meet the Goyim Defense League" image available **[here](https://latenightafa.noblogs.org/files/2024/08/Meet-the-GDL-2024.jpg)**.
 
-This resource was created 2024-08-05.
+
+
+
+
+
+_Last updated 2024-08-05_
